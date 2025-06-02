@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# User data & database
+face_database/
+placeholder/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# UI build artifacts
+ui/__pycache__/
+
+# Ignore rules folder if not needed
+rules/*.mdc
+
+# Misc
+*.bak
+*.swp
+*.tmp

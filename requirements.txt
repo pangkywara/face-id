@@ -1,0 +1,13 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+scikit-learn>=0.24.0
+pillow>=8.0.0
+matplotlib>=3.3.0
+imutils>=0.5.4
+onnxruntime>=1.7.0
+coloredlogs>=15.0.1
+# Untuk GUI
+tk
+# Untuk model TFLite (pilih salah satu, sesuai environment)
+tflite-runtime; platform_system != 'Windows'  # Untuk Linux/ARM
+tensorflow>=2.5.0; platform_system == 'Windows'  # Untuk Windows
