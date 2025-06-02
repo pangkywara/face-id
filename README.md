@@ -5,7 +5,7 @@ Aplikasi autentikasi wajah canggih berbasis Python yang dilengkapi fitur **anti-
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![Framework: Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](#)
 [![AI Models: TFLite & ONNX](https://img.shields.io/badge/AI%20Models-TFLite%20%26%20ONNX-brightgreen.svg)](#models)
-[![License: Personal Project](https://img.shields.io/badge/License-Personal%20Use-green.svg)](#lisensi)
+[![License: Personal Project](https://img.shields.io/badge/License-Personal%20Use-green.svg)](/LICENSE)
 
 ---
 
