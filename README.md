@@ -90,8 +90,6 @@ Ikuti langkah-langkah berikut untuk menjalankan sistem ini di komputer Anda:
     > * `MobileFaceNet_9925_9680.tflite` (untuk pengenalan wajah)
     > * `AntiSpoofing_bin_128.onnx` (untuk anti-spoofing)
     > * `haarcascade_frontalface_default.xml` (untuk deteksi wajah klasik OpenCV)
-    >
-    > *(Catatan: Anda mungkin perlu mencari sumber resmi atau tautan yang disediakan oleh pengembang asli proyek untuk mengunduh model-model ini jika tidak disertakan dalam repositori.)*
 
 5.  **Jalankan Aplikasi:**
     Setelah semua siap, jalankan script utama:
